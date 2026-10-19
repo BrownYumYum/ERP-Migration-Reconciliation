@@ -1,0 +1,4 @@
+record_id,name,status
+1001,Fictional Customer A,active
+1002,Fictional Customer B,active
+1003,Fictional Customer C,inactive
